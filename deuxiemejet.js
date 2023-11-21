@@ -1,0 +1,1 @@
+console.log("j'ai une nouvelle idéd trop cool");
