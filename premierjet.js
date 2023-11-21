@@ -1,0 +1,1 @@
+console.log("je suis trop content de commencer mon premier perso");
